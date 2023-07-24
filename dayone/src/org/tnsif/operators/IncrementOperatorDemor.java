@@ -3,6 +3,7 @@ package org.tnsif.operators;
 
 public class IncrementOperatorDemor {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		int p=11,q=2;
 		int x=p++;
