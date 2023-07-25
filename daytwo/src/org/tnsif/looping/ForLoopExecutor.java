@@ -1,4 +1,4 @@
-//program to demonstrate on * patter using for loop
+//program to demonstrate on * pattern using for loop
 package org.tnsif.looping;
 
 import java.util.Scanner;
@@ -10,7 +10,7 @@ public class ForLoopExecutor {
 		int n = s.nextInt();
 		for(int i=1;i<=n;i++)
 		{
-			for(int j=1;j<=n;j++)
+			for(int j=1;j<=i;j++)
 			{
 				System.out.print("*");
 			}
