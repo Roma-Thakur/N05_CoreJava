@@ -16,10 +16,8 @@ public class DigitsInNumber {
 	      {
 	         digits++;
 	         n = n/10;
-	      }
-	      
-	      System.out.println("\nThe Total Number of Digits are = " +digits);
-
+	      }      
+	      System.out.println("\n The Total Number of Digits are = " +digits);
 	}
 
 }
