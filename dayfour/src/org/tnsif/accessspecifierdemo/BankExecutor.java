@@ -8,7 +8,7 @@ public class BankExecutor {
 		Bank b=new Bank();
 		b.bankName="SBI";
 		b.displayPublic();
-		/*pinNo and displayPrivae() method are private,
+		/*pinNo and displayPrivate() method are private,
 		 * so we can't access into another class and
 		 * another package, only we can access private
 		 * data members inside the same class*/
